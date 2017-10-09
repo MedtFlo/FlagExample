@@ -1,0 +1,13 @@
+{
+    "name": "htl3r/flags",
+    "description": "Flaggen",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MedtFlo",
+            "email": "4136@htl.rennweg.at"
+        }
+    ],
+    "require": {}
+}
