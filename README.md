@@ -1,0 +1,2 @@
+# FlagExample
+Example from school
