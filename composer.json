@@ -8,6 +8,14 @@
             "name": "MedtFlo",
             "email": "4136@htl.rennweg.at"
         }
+    ]/*,
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/MedtFlo/FlagExample.git"
+        }
     ],
-    "require": {}
+    "require": {
+        "htl3r/flags": "dev-master"
+    }*/
 }
